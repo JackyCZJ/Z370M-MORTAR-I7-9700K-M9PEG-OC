@@ -212,7 +212,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>keepsyms=1 dart=0 debug=0x100 -disablegfxfirmware -no_compat_check</string>
+		<string>keepsyms=1 dart=0 debug=0x100 -disablegfxfirmware -no_compat_check shikigva=60</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>
@@ -236,6 +236,8 @@
 	</dict>
 	<key>CPU</key>
 	<dict>
+		<key>Type</key>
+		<string>0x0705</string>
 		<key>UseARTFrequency</key>
 		<false/>
 	</dict>
@@ -525,10 +527,10 @@
 				<key>Comment</key>
 				<string>IONVMeFamily change 0x10 -&amp;gt; 0x01 for LiteOn CX2 (c) Pike R. Alpha implemented by Ricky for 10.14.4</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
-				9sEQD4VEAQAA
+				9sEQD5TARAjw
 				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
@@ -536,7 +538,7 @@
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
 				<data>
-				9sEBD4VEAQAA
+				9sEBD5TARAjw
 				</data>
 			</dict>
 		</array>
