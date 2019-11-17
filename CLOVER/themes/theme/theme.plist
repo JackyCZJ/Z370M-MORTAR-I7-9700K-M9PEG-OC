@@ -13,7 +13,7 @@
 			<key>Dark</key>
 			<false/>
 			<key>Path</key>
-			<string>wallpaper.png</string>
+			<string>theme/wallpaper.png</string>
 			<key>Sharp</key>
 			<string>0xFF</string>
 			<key>Type</key>

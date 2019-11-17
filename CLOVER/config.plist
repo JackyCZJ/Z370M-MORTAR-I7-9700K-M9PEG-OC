@@ -212,7 +212,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>keepsyms=1 dart=0 debug=0x100 -no_compat_check</string>
+		<string>keepsyms=1 dart=0 debug=0x100 -no_compat_check agdpmod=pikera</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>
@@ -505,42 +505,6 @@
 				<key>Replace</key>
 				<data>
 				g/sPkJCQkJCQ
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>IONVMeFamily: Ignore FLBAS bit:4 being set - for Plextor/LiteOn/Hynix (credit Pene)</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				ikga9sEQ
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>com.apple.iokit.IONVMeFamily</string>
-				<key>Replace</key>
-				<data>
-				ikga9sEA
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>IONVMeFamily change 0x10 -&amp;gt; 0x01 for LiteOn CX2 (c) Pike R. Alpha implemented by Ricky for 10.14.4</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				9sEQD5TARAjw
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>IONVMeFamily</string>
-				<key>Replace</key>
-				<data>
-				9sEBD5TARAjw
 				</data>
 			</dict>
 		</array>
