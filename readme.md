@@ -5,9 +5,9 @@
 - mortherbroad : MSI Mortar Z370M
 - CPU: intel i7 9700k
 - Disk : PLEXTORPX M9peg 1t 
-- Graphics: Intel UHD Graphics 630
+- Graphics: Intel UHD Graphics 630 & RX470
 - Memory: Corsair DDR4 3200 MHz ( oc to 3333Mhz)
-- SIMBOS : Mac mini (2018)  if you have independent  graphics , edit it to  iMac Pro(2017) or some else model with independent  graphics.
+- SIMBOS :  iMac (2019) 
 
 Notice:  inject your seriel number and those shit thing.
 
