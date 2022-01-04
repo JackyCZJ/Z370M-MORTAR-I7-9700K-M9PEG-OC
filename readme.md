@@ -1,3 +1,5 @@
+# ⚠️ NO LONGER MAINTAINED 不再维护
+
 # z370m mortar i7-9700k NVME PLEXTOR PX-1TM9PeG OC-CONFIG
 
 ## About this Hackintosh 关于这台黑苹果
